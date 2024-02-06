@@ -1,2 +1,1 @@
-# amcl-utils
-amcl-go utility
+# fp256bn-amcl-utils
