@@ -1,4 +1,4 @@
-package mcl_utils
+package utils
 
 import (
 	"crypto/rand"

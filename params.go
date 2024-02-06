@@ -1,4 +1,4 @@
-package mcl_utils
+package utils
 
 import "github.com/akakou-fork/amcl-go/miracl/core/FP256BN"
 

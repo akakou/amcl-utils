@@ -1,4 +1,4 @@
-module github.com/akakou/amcl-utils
+module github.com/akakou/fp256bn-amcl-utils
 
 go 1.21.4
 
